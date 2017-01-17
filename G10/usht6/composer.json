@@ -1,0 +1,9 @@
+{
+    "name": "di-mts1617/0.1",
+    "description": "DI MTS1617",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
