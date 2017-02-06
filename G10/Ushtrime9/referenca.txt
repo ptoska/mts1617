@@ -1,0 +1,5 @@
+https://lumen.laravel.com/docs/5.4/
+https://bitbucket.org/
+https://phpunit.de
+https://www.savjee.be/2016/06/Deploying-website-to-ftp-or-amazon-s3-with-BitBucket-Pipelines/
+https://answers.atlassian.com/questions/39140958/how-do-i-run-phpunit-tests-with-bitbucket-pipelines
